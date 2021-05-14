@@ -1,0 +1,10 @@
+.about{
+  background-color:white;
+  justify-content: space-around;
+  justify-self: center;
+  padding: 20px 10%;
+}
+
+.Reviews{
+  display: flex;
+}

@@ -1,0 +1,40 @@
+.overall{
+  background-image: background-color white;
+  /*background-image: url("https://img.freepik.com/free-photo/white-luxury-fabric-background-with-copy-space_46250-2192.jpg?size=626&ext=jpg");*/
+}
+.overall{
+  /* width: 100vw;
+  height: 90vh; */
+  color: white;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+ 
+}
+.main{
+  font-family: 'RocknRoll One';
+  font-size: 50px;
+  text-shadow:5px 2px 15px red ;
+}
+.main h3{
+  padding: 10px;
+}
+.second{
+  color: #86838b;
+  padding: 20px 40px;
+  
+}
+.Heading{
+	font-size:50px;
+}
+
+@media (max-width:850px){
+  .main{
+    font-size: 30px;
+ 
+  }
+  
+
+}
