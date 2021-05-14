@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rexora_Edulabs-website/static/css/main.8788a2d2.chunk.css",
+    "main.js": "/Rexora_Edulabs-website/static/js/main.becd6afb.chunk.js",
+    "main.js.map": "/Rexora_Edulabs-website/static/js/main.becd6afb.chunk.js.map",
+    "runtime-main.js": "/Rexora_Edulabs-website/static/js/runtime-main.8a3158e1.js",
+    "runtime-main.js.map": "/Rexora_Edulabs-website/static/js/runtime-main.8a3158e1.js.map",
+    "static/js/2.9b7fe501.chunk.js": "/Rexora_Edulabs-website/static/js/2.9b7fe501.chunk.js",
+    "static/js/2.9b7fe501.chunk.js.map": "/Rexora_Edulabs-website/static/js/2.9b7fe501.chunk.js.map",
+    "index.html": "/Rexora_Edulabs-website/index.html",
+    "static/css/main.8788a2d2.chunk.css.map": "/Rexora_Edulabs-website/static/css/main.8788a2d2.chunk.css.map",
+    "static/js/2.9b7fe501.chunk.js.LICENSE.txt": "/Rexora_Edulabs-website/static/js/2.9b7fe501.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3158e1.js",
+    "static/js/2.9b7fe501.chunk.js",
+    "static/css/main.8788a2d2.chunk.css",
+    "static/js/main.becd6afb.chunk.js"
+  ]
+}
